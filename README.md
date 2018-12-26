@@ -1,5 +1,7 @@
 ### Introduction
 
+
+
 So as you remember, `mapStateToProps()` gives us a degree of separation of
 concerns by allowing us to not reference our store in our component when
 retrieving the state. So it moved us towards having our state management in one
